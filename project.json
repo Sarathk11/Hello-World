@@ -1,5 +1,5 @@
 {
-  "name": "HelloWorld",
+  "name": "HellowWorld",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "a8ffa774-0afc-45e1-8d72-78186bcf2665",
+      "uniqueId": "faa71c77-e5e0-4bbc-83c9-6798e874bbd7",
       "input": [],
       "output": []
     }
